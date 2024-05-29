@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3QK3Uvvdoc39yCLNS1LfNcdMNhXGEJkoYXUb33wrn04=",
+  "Source": "AZ200TestDocker",
+  "BasePath": "_content/AZ200TestDocker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
